@@ -66,3 +66,27 @@ with AI-assisted development layered into the engineering workflow.
                          │
                  AI-assisted workflow
                  Claude Code / Agents
+                 
+## References & Related Projects
+
+- **[App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI)**  
+  CLI tooling for automating App Store Connect workflows.
+
+- **[App Store Connect API](https://developer.apple.com/app-store-connect/api/)**  
+  Apple's official API documentation.
+
+- **[GitHub Actions](https://github.com/features/actions)**  
+  Used for CI/CD workflow automation.
+
+  Repository
+      │
+      ├── iOS Release Automation
+      │
+      ├── CI/CD examples
+      │
+      ├── AI-assisted workflow
+      │
+      └── App Store Connect CLI
+                │
+                ▼
+        Official GitHub Project
